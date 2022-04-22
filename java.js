@@ -21,3 +21,10 @@ bool.push(0);
 console.log(numbers);
 console.log(cars);
 console.log(bool);
+
+console.log(typeof 16);
+console.log(typeof `dodge`);
+console.log(typeof false);
+
+//conditionals
+
